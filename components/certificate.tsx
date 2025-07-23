@@ -10,7 +10,7 @@
       id: "Generative AI:Introduction and Applications",
       desc: "IBM certification on Generative AI:Introduction and Applications",
       issuer: "IBM",
-      badge: "certificate/icons/ibm.jpg",
+      badge: "certificate/icons/ibm.png",
       issueDate: "July 17, 2025",
       verifyLink:
         "https://www.coursera.org/account/accomplishments/verify/GPYGUWN2LSXA",
@@ -21,7 +21,7 @@
       id: "Data Science",
       desc: "IBM certification on What is Data Science?",
       issuer: "IBM",
-      badge: "certificate/icons/ibm.jpg",
+      badge: "certificate/icons/ibm.png",
       issueDate: "July 20, 2025",
       verifyLink:
         "https://www.coursera.org/account/accomplishments/verify/Q8VVXLU3LGUW",
