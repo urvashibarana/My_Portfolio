@@ -25,7 +25,7 @@
       issueDate: "July 20, 2025",
       verifyLink:
         "https://www.coursera.org/account/accomplishments/verify/Q8VVXLU3LGUW",
-      file: "/certificate/py.jpg",
+      file: "/certificate/data_science.jpg",
       images: ["/certificate/data_science.jpg"],
   },
    
