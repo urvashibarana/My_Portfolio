@@ -6,7 +6,30 @@
   import { Download } from "lucide-react";
 
   const certificates = [
-    {
+   {  
+      id: "Generative AI:Introduction and Applications",
+      desc: "IBM certification on Generative AI:Introduction and Applications",
+      issuer: "IBM",
+      badge: "certificate/icons/generative_AI.jpg",
+      issueDate: "July 17, 2025",
+      verifyLink:
+        "https://www.coursera.org/account/accomplishments/verify/GPYGUWN2LSXA",
+      file: "/certificate/generative_AI.jpg",
+      images: ["/certificate/generative_AI.jpg"],
+  }, 
+    {  
+      id: "Data Science",
+      desc: "IBM certification on What is Data Science?",
+      issuer: "IBM",
+      badge: "certificate/icons/data_science.jpg",
+      issueDate: "July 20, 2025",
+      verifyLink:
+        "https://www.coursera.org/account/accomplishments/verify/Q8VVXLU3LGUW",
+      file: "/certificate/py.jpg",
+      images: ["/certificate/data_science.jpg"],
+  },
+   
+      {
       id: "Python for Everybody",
       desc: "University of Michigan certification in Python programming.",
       issuer: "University of Michigan",
