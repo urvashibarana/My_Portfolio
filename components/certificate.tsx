@@ -7,6 +7,17 @@
 
   const certificates = [
    {  
+      id: "Preparing Data for Analysis with Microsoft Excel",
+      desc: "Microsoft certification on Preparing Data for Analysis with Microsoft Excel ",
+      issuer: "Microsoft", 
+      badge: "certificate/icons/microsoft.png",
+      issueDate: "July 17, 2025",
+      verifyLink:
+        "https://www.coursera.org/account/accomplishments/verify/MMCO60KM3PKK",
+      file: "/certificate/bi.jpg",
+      images: ["/certificate/bi.jpg"],
+  }, 
+    {  
       id: "Generative AI:Introduction and Applications",
       desc: "IBM certification on Generative AI:Introduction and Applications",
       issuer: "IBM",
