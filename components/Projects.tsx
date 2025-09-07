@@ -25,7 +25,7 @@ const projects = [
         linkedin: "https://www.linkedin.com/in/shubham-sharma-5793122b0/",
         role: "Lead & Backend dev",
       },
-       {
+      {
         name: "Ayush Gajjar",
         avatar: "Team-Ayush/Ayushprofile.jpg",
         github: "https://github.com/ayush101x",
@@ -249,12 +249,16 @@ const Projects = ({ darkMode }: { darkMode: boolean }) => {
                       className="rounded-xl overflow-hidden mb-4"
                     >
                       {proj.images.map((img, i) => (
-                        <SwiperSlide key={i}>
-                          <img
-                            src={img}
-                            className="w-full max-h-64 object-contain rounded-xl"
-                          />
-                        </SwiperSlide>
+                       <SwiperSlide key={i}>
+  <div className="w-full h-[70vh] flex justify-center items-center bg-gray-100 p-4">
+    <img
+      src={img}
+      className="max-w-full max-h-full object-contain rounded-xl"
+      alt="project image"
+    />
+  </div>
+</SwiperSlide>
+
                       ))}
                     </Swiper>
                   )}
@@ -269,8 +273,6 @@ const Projects = ({ darkMode }: { darkMode: boolean }) => {
                       </h4>
                       <div className="w-full overflow-x-auto py-2">
                         <div className="flex space-x-4 w-max scrolling-x hide-scrollbar md:animate-none">
-
-                          
                           {proj.team.map((member, i) => (
                             <motion.div
                               key={i}
