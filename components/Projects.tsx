@@ -79,7 +79,7 @@ const projects = [
     tech: "PHP",
     desc: "WonderPrint – A sleek PHP platform for creating and managing custom products effortlessly",
     link: "https://github.com/urvashibarana/woderprint",
-    images: ["/wonderprint/wonderprint1.png", "/Vintage-Proj/VintageHub3.jpg", "/Vintage-Proj/VintageHub2.jpg"],
+    images: ["/wonderprint/wonderprint1.png"],
     brief:
       "A full-stack e-commerce website with PHP backend, product listings, cart and admin panel.",
   }
