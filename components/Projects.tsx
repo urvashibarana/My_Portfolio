@@ -252,7 +252,7 @@ const Projects = ({ darkMode }: { darkMode: boolean }) => {
                         <SwiperSlide key={i}>
                           <img
                             src={img}
-                            className="w-full h-64 object-cover rounded-xl"
+                            className="w-full h-auto object-contain rounded-xl"
                           />
                         </SwiperSlide>
                       ))}
