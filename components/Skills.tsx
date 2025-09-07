@@ -63,8 +63,8 @@ const Skills = ({ darkMode }: { darkMode: boolean }) => {
     { 
       name: "Flutter", 
       icon: <SiFlutter className="text-blue-400" />, 
-      years: "3 years",
-      description: "Created 4 cross-platform mobile apps and 2 published on stores."
+      years: "1 years",
+      description: "Created 2 cross-platform mobile apps and 2 published on stores."
     },
     { 
       name: "PHP", 
