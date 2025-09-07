@@ -75,15 +75,15 @@ const projects = [
     ],
   },
   {
-    id: "Vintage Hub E-Commerce",
-    tech: ".net",
-    desc: "Storefront with categories and products & Deployment Ready !!",
-    link: "https://github.com/user/ecommerce",
+    id: "Wonderprint E-Commerce",
+    tech: "PHP",
+    desc: "WonderPrint – A sleek PHP platform for creating and managing custom products effortlessly",
+    link: "https://github.com/urvashibarana/woderprint",
     images: ["/Vintage-Proj/VintageHub1.jpg", "/Vintage-Proj/VintageHub3.jpg", "/Vintage-Proj/VintageHub2.jpg"],
     brief:
-      "A full-stack e-commerce app with .NET backend, product listings, cart, payment gateway integration, and admin panel.",
-  },
-  {
+      "A full-stack e-commerce website with PHP backend, product listings, cart and admin panel.",
+  }
+  /*{
     id: "Spotify Clone",
     tech: "HTML | CSS | JS",
     desc: "A Spotify  Music Player Clone.",
@@ -91,7 +91,7 @@ const projects = [
     images: ["Spotify-Clone-Proj/Spotify-Clone-Proj.jpg"],
     brief:
       "Frontend Spotify-inspired music UI built using pure HTML, CSS, and JavaScript. Responsive with interactive controls.",
-  },
+  },*/
 ];
 
 const sectionFade = {
